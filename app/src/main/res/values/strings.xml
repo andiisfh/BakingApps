@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Baking Apps</string>
+
+    <!-- Network -->
+    <string name="rto">Request Time Out</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="request_failed">Request Failed</string>
+
+    <!-- Detail Recipe -->
+    <string name="ingredients">Ingredients</string>
+    <string name="step">Steps</string>
+
+    <!-- Ingredient -->
+    <string name="ingredient_item_name">%1$s %2$s of %3$s</string>
+
+    <!-- Step -->
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
